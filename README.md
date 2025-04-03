@@ -45,5 +45,6 @@ Este ejercicio fue desarrollado como parte de un módulo del Bootcamp de Front-E
 - Abre el archivo index.html en tu navegador.
 
 📷 Preview
+
 ![image](https://github.com/user-attachments/assets/d9f907d7-0d03-4c0e-9bff-b4e82dbccd6a)
 ![image](https://github.com/user-attachments/assets/5839da76-79e7-4bc7-87f3-ee1e4f40f508)
