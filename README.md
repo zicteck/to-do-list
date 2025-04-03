@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-###English:
+*English*:
 This project is a basic To-Do List web application created with pure HTML, CSS, and JavaScript. It allows users to:
 
 - View a list of pending tasks.
@@ -11,7 +11,7 @@ This project is a basic To-Do List web application created with pure HTML, CSS, 
 
 This project was developed as part of a Front-End Bootcamp module focused on DOM manipulation with JavaScript.
 
-###Spanish
+*Español*:
 Este proyecto es una aplicación web básica de Lista de Tareas, creada con HTML, CSS y JavaScript puros. Permite a los usuarios:
 
 - Ver una lista de tareas pendientes.
@@ -22,13 +22,13 @@ Este ejercicio fue desarrollado como parte de un módulo del Bootcamp de Front-E
 
 ## 🛠 Features
 
-###English:
+*English*:
 - Toggle visibility of the task form.
 - Dynamically add new tasks to a table.
 - Remove tasks with a "Finish" button.
 - Tasks are handled through an internal array.
   
-###Spanish:
+*Español*:
 - Mostrar/ocultar el formulario para agregar tareas.
 - Agregar nuevas tareas dinámicamente a una tabla.
 - Eliminar tareas con el botón "Finalizar".
