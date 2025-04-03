@@ -34,11 +34,13 @@ Este ejercicio fue desarrollado como parte de un módulo del Bootcamp de Front-E
 - Eliminar tareas con el botón "Finalizar".
 - Las tareas se manejan mediante un arreglo interno.
 
-🚀 ##How to Use
+## 🚀 How to Use
+
+*English*:
 - Download or clone the repository.
 - Open the index.html file in your browser.
 
-🚀 ##Cómo usarlo
+*Español*:
 - Descarga o clona el repositorio.
 - Abre el archivo index.html en tu navegador.
 
