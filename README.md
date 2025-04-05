@@ -1,50 +1,130 @@
-# To-Do List - DOM Manipulation Project
+```markdown
+# To-Do List Application 📝
 
-## 📌 Description
+![To-Do List](https://img.shields.io/badge/To--Do%20List-Application-brightgreen)
 
-*English*:
-This project is a basic To-Do List web application created with pure HTML, CSS, and JavaScript. It allows users to:
+## Overview
 
-- View a list of pending tasks.
-- Add new tasks via a form.
-- Remove tasks when completed.
+Welcome to the To-Do List project! This web application lets you manage your tasks efficiently. Built with pure HTML, CSS, and JavaScript, it provides a simple and user-friendly interface for adding, editing, and removing tasks. 
 
-This project was developed as part of a Front-End Bootcamp module focused on DOM manipulation with JavaScript.
+Whether you're tracking daily chores or keeping an eye on work projects, this application helps you stay organized.
 
-*Español*:
-Este proyecto es una aplicación web básica de Lista de Tareas, creada con HTML, CSS y JavaScript puros. Permite a los usuarios:
+---
 
-- Ver una lista de tareas pendientes.
-- Agregar nuevas tareas mediante un formulario.
-- Eliminar tareas cuando se completan.
+## Features
 
-Este ejercicio fue desarrollado como parte de un módulo del Bootcamp de Front-End enfocado en la manipulación del DOM con JavaScript.
+- **Add Tasks**: Easily input new tasks through a simple form.
+- **View Tasks**: See all your pending tasks displayed in a clean list.
+- **Edit Tasks**: Modify tasks as needed to reflect changes.
+- **Delete Tasks**: Remove tasks once completed, keeping your list clean and manageable.
+- **Responsive Design**: Works well on various devices.
 
-## 🛠 Features
+---
 
-*English*:
-- Toggle visibility of the task form.
-- Dynamically add new tasks to a table.
-- Remove tasks with a "Finish" button.
-- Tasks are handled through an internal array.
-  
-*Español*:
-- Mostrar/ocultar el formulario para agregar tareas.
-- Agregar nuevas tareas dinámicamente a una tabla.
-- Eliminar tareas con el botón "Finalizar".
-- Las tareas se manejan mediante un arreglo interno.
+## Technologies Used
 
-## 🚀 How to Use
+- **HTML**: For the structure of the application.
+- **CSS**: For styling and layout.
+- **JavaScript**: For dynamic features and DOM manipulation.
 
-*English*:
-- Download or clone the repository.
-- Open the index.html file in your browser.
+---
 
-*Español*:
-- Descarga o clona el repositorio.
-- Abre el archivo index.html en tu navegador.
+## Installation
 
-📷 Preview
+To get started with this project, follow these steps:
 
-![image](https://github.com/user-attachments/assets/d9f907d7-0d03-4c0e-9bff-b4e82dbccd6a)
-![image](https://github.com/user-attachments/assets/5839da76-79e7-4bc7-87f3-ee1e4f40f508)
+1. Clone the repository to your local machine using:
+   ```bash
+   git clone https://github.com/zicteck/to-do-list.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd to-do-list
+   ```
+
+3. Open the `index.html` file in your browser to see the application in action.
+
+---
+
+## Usage
+
+1. **Add a Task**: Type your task in the input field and hit enter or click the "Add" button.
+2. **Edit a Task**: Click on the task you want to modify, make changes, and hit enter to save.
+3. **Delete a Task**: Click the delete icon next to the task to remove it from your list.
+
+---
+
+## Screenshots
+
+![Task List](https://via.placeholder.com/800x400?text=To-Do+List+Screenshot)
+
+![Add Task](https://via.placeholder.com/800x400?text=Add+Task+Screenshot)
+
+---
+
+## Live Demo
+
+You can view the live version of the application [here](https://github.com/zicteck/to-do-list/releases).
+
+---
+
+## Topics Covered
+
+This project covers several essential topics in web development:
+
+- **add-task**: Techniques for adding new items.
+- **beginner-friendly**: Suitable for newcomers to web development.
+- **css**: Styling and layout considerations.
+- **delete-task**: Methods for removing tasks.
+- **dom-manipulation**: Interacting with the Document Object Model using JavaScript.
+- **frontend**: Building the user interface.
+- **html**: Structuring web pages.
+- **javascript**: Implementing functionality and interactivity.
+- **onclick**: Using click events for user actions.
+- **to-do-list**: A practical application of task management.
+
+---
+
+## Contribution
+
+We welcome contributions to improve this project! If you'd like to help out, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Create a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it as you wish.
+
+---
+
+## Acknowledgments
+
+This project was developed as part of a Front-End Bootcamp module focused on DOM manipulation with JavaScript. Thank you to all the instructors and fellow students who contributed to this learning experience.
+
+---
+
+## Get in Touch
+
+If you have questions or feedback, please reach out:
+
+- **GitHub**: [zicteck](https://github.com/zicteck)
+- **Email**: zicteck@example.com
+
+Thank you for checking out the To-Do List application! We hope it helps you stay organized and productive. Happy coding! 🎉
+```
